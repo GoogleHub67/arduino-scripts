@@ -19,7 +19,7 @@ basic-arduino-scripts/
 └── src/
     ├── 01_blink/
     ├── 02_button_led/
-    └── ... (all 26 folder modules)
+    └── ... (all 70 folder modules)
 ```
 
 ---
